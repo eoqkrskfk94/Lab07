@@ -22,7 +22,7 @@ public class CenturyCalculator {
 		System.out.println(year + " is " + YtC.Centurycal(year) + "th century."); //prints out the calculated century
 		
 		
-
+		
 	}
 	
 
